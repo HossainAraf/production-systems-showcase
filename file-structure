@@ -1,0 +1,71 @@
+
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── architecture/
+│   │   ├── monolith-vs-api.md
+│   │   ├── service-boundaries.md
+│   │   ├── scaling-considerations.md
+│   │   └── auth-strategy.md
+│   │
+│   ├── api-design/
+│   │   ├── restful-conventions.md
+│   │   ├── versioning-strategy.md
+│   │   ├── pagination-patterns.md
+│   │   └── error-response-format.md
+│   │
+│   ├── workflows/
+│   │   ├── supplier-workflow.md
+│   │   ├── medical-directory-workflow.md
+│   │   ├── qr-feedback-system.md
+│   │   └── inventory-sales-lifecycle.md
+│   │
+│   ├── deployment/
+│   │   ├── render-deployment.md
+│   │   ├── postgres-setup.md
+│   │   ├── ci-cd-notes.md
+│   │   └── domain-dns-setup.md
+│   │
+│   ├── security/
+│   │   ├── token-based-access.md
+│   │   ├── background-jobs.md
+│   │   ├── rate-limiting.md
+│   │   └── authorization-patterns.md
+│   │
+│   ├── case-studies/
+│   │   ├── doctors-platform.md
+│   │   ├── legacy-modernization.md
+│   │   ├── feedback-system.md
+│   │   └── multi-branch-erp-analysis.md
+│   │
+│   └── decisions/
+│       ├── adr-001-api-only-first.md
+│       ├── adr-002-react-separation.md
+│       ├── adr-003-background-jobs.md
+│       └── adr-004-private-repo-policy.md
+│
+├── diagrams/
+│   ├── system-overview/
+│   ├── erd/
+│   ├── sequence/
+│   └── deployment/
+│
+├── screenshots/
+│   ├── dashboards/
+│   ├── api-docs/
+│   ├── admin-panels/
+│   └── mobile/
+│
+├── snippets/
+│   ├── rails/
+│   ├── react/
+│   ├── sql/
+│   └── infrastructure/
+│
+└── examples/
+    ├── sample-api-response.json
+    ├── webhook-payload.json
+    └── openapi-sample.yaml
