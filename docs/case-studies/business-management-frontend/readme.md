@@ -8,8 +8,7 @@
 A modern React frontend application for Al Baik Restaurant and Community Centre management system, featuring dashboard analytics, POS, inventory management, and more.
 
 <div align="center">
-  <img src="src/assets/images/business-management-home.png" alt="logo" width="600" height="auto" />
-  <h1><b>Al Baik Webapp</b></h1>
+  <img src="./images/home-desktop.png" alt="logo" width="600" height="auto" />
 </div>
 
 # 📗 Table of Contents
