@@ -89,7 +89,7 @@ A modern React frontend application for Restaurant and Community Centre manageme
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://c7c9161b.warehouse-frontend-btm.pages.dev/)
+- [Live Demo Link](https://demo-bm.u-tech.dev/)
 - [Video description](): Coming soon
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
