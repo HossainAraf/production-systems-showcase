@@ -14,3 +14,4 @@ The SALEHOBE-API is a modular, versioned Rails 8 backend powered by PostgreSQL. 
 ## Github repository:
 -  salehobe-api
 -  salehobe-frontend
+## Live link: [Salehobe on Cloudflare](https://salehobe-frontend.utechdynamics.workers.dev/)
